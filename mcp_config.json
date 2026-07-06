@@ -1,0 +1,31 @@
+{
+  "mcpServers": {
+    "agrivision-disease-guard-server": {
+      "command": "python",
+      "args": [
+        "tools/mcp_tools.py"
+      ],
+      "env": {
+        "GEMINI_API_KEY": "env:GEMINI_API_KEY"
+      },
+      "tools": [
+        {
+          "name": "query_disease_db",
+          "description": "Queries the verified database of ecological plant disease mitigation strategies and organic guidelines.",
+          "inputSchema": {
+            "type": "object",
+            "properties": {
+              "disease_name": {
+                "type": "string",
+                "description": "The name or keywords of the diagnosed plant crop disease."
+              }
+            },
+            "required": [
+              "disease_name"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

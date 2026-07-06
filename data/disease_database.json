@@ -1,0 +1,86 @@
+{
+  "late_blight": {
+    "disease_name": "Late Blight (Phytophthora infestans)",
+    "affected_crops": ["Tomato", "Potato"],
+    "symptoms": "Dark, water-soaked spots on leaves that turn brown/black; white mold growth on the undersides of leaves in humid conditions; dark lesions on fruit or tubers.",
+    "organic_treatments": [
+      "Copper octanoate (OMRI listed soap-based copper fungicide)",
+      "Bacillus subtilis strain QST 713 bio-fungicide spray"
+    ],
+    "cultural_practices": [
+      "Prune the bottom 12 inches of leaves to prevent soil-splash inoculation.",
+      "Ensure wide spacing between plants (at least 24-36 inches) to maximize airflow.",
+      "Use drip irrigation exclusively to keep foliage dry.",
+      "Destroy all infected plant residue immediately; do not compost."
+    ],
+    "eco_status": "Approved under Universal Design for Agriculture (UDA) criteria.",
+    "warnings": []
+  },
+  "wheat_rust": {
+    "disease_name": "Wheat Rust (Puccinia graminis / striiformis)",
+    "affected_crops": ["Wheat", "Barley"],
+    "symptoms": "Yellowish-brown or orange pustules on leaves, leaf sheaths, and stems, resembling rust spots.",
+    "organic_treatments": [
+      "Wettable sulfur spray (early preventative application only)",
+      "Cold-pressed neem oil extract (1% concentration for early stages)"
+    ],
+    "cultural_practices": [
+      "Plant rust-resistant crop cultivars approved by local extension offices.",
+      "Implement a 3-year crop rotation program with non-cereal crops (e.g., legumes).",
+      "Sow crops early in the season to avoid peak spore release times."
+    ],
+    "eco_status": "Approved under Universal Design for Agriculture (UDA) criteria.",
+    "warnings": []
+  },
+  "powdery_mildew": {
+    "disease_name": "Powdery Mildew",
+    "affected_crops": ["Tomato", "Wheat", "Cucurbits", "Apple"],
+    "symptoms": "White, powdery spots or patches on the upper surface of leaves, stems, and buds; leaves may yellow and curl.",
+    "organic_treatments": [
+      "Potassium bicarbonate spray (3 tablespoons per gallon of water with a mild soap surfactant)",
+      "Neem oil spray (OMRI listed)",
+      "Dilute milk spray (40% milk, 60% water - acts as a natural fungicide under sunlight)"
+    ],
+    "cultural_practices": [
+      "Locate plantings in full sun areas where possible.",
+      "Thin out foliage inside the canopy to increase light penetration and airflow.",
+      "Avoid overhead watering during evening hours."
+    ],
+    "eco_status": "Approved under Universal Design for Agriculture (UDA) criteria.",
+    "warnings": []
+  },
+  "citrus_greening": {
+    "disease_name": "Citrus Greening (Huanglongbing - HLB)",
+    "affected_crops": ["Citrus", "Orange", "Lemon", "Lime"],
+    "symptoms": "Asymmetrical yellowing of leaves (mottling); small, narrow, upright leaves; small, lopsided fruit that remains green at the bottom and has a bitter taste.",
+    "organic_treatments": [
+      "Kaolin clay spray (creates a physical barrier against Asian Citrus Psyllid vectors)",
+      "Horticultural mineral oils (suffocates vector eggs and nymphs)"
+    ],
+    "cultural_practices": [
+      "Plant only certified disease-free nursery stock.",
+      "Release natural predators like parasitic wasps (Tamarixia radiata) to control psyllid vectors.",
+      "Apply specialized micronutrient sprays to boost tree immunity and sustain fruit yield."
+    ],
+    "eco_status": "Approved under Universal Design for Agriculture (UDA) criteria.",
+    "warnings": [
+      "No direct cure exists. Focus is strictly vector control and host plant health preservation."
+    ]
+  },
+  "leaf_spot": {
+    "disease_name": "Septoria Leaf Spot (Septoria lycopersici)",
+    "affected_crops": ["Tomato", "Eggplant"],
+    "symptoms": "Small, circular spots with dark brown margins and grey centers, appearing first on lower leaves; yellow halos around spots.",
+    "organic_treatments": [
+      "Copper soap fungicide (OMRI approved)",
+      "Bacillus amyloliquefaciens bio-fungicide"
+    ],
+    "cultural_practices": [
+      "Maintain a 3-year crop rotation cycle away from Solanaceous plants.",
+      "Apply organic mulch (straw or paper) around the base of plants to act as a barrier against soil spores.",
+      "Thoroughly clean stakes, cages, and gardening tools at the end of the season using a 10% bleach solution."
+    ],
+    "eco_status": "Approved under Universal Design for Agriculture (UDA) criteria.",
+    "warnings": []
+  }
+}
