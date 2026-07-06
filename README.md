@@ -3,6 +3,9 @@
 
 ![AgriVision Disease Guard Banner](assets/agrivision_banner.png)
 
+### 🖥️ Dashboard Interface Demo
+![AgriVision Disease Guard Dashboard Demo](assets/project_demo.png)
+
 AgriVision Disease Guard is a complete, production-ready, security-first Multi-Agent System built using the **Google Antigravity SDK** design pattern and the **ADK (Agent Development Kit) framework**. It is designed to empower small-scale, local farmers with rapid crop disease diagnosis and broker non-toxic, eco-friendly containment strategies.
 
 ---
